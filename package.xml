@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="3">
-  <name>tinyPLC_sensor_kit_launch</name>
+  <name>tinyplc_sensor_kit_launch</name>
   <version>0.0.1</version>
   <description>tinyPLC sensor kit bringup</description>
   <maintainer email="you@example.com">xiaoan</maintainer>
